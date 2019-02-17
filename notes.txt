@@ -1,0 +1,7 @@
+how should words longer than row width be handled?
+for now - assume they should be put into output.
+
+how should separate words be derived from the string?
+Let's use String.Split(" ") for now. 
+but the result of Split() isn't guaranteed to be as we want it.
+We could just ignore unwanted empty strings.

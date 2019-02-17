@@ -1,0 +1,7 @@
+C:\Users\gladkonik\OneDrive\Projects\C#\Test_Task_Confirmit\Test_Task_Confirmit\obj\Debug\Test_Task_Confirmit.csprojAssemblyReference.cache
+C:\Users\gladkonik\OneDrive\Projects\C#\Test_Task_Confirmit\Test_Task_Confirmit\obj\Debug\Test_Task_Confirmit.csproj.CoreCompileInputs.cache
+C:\Users\gladkonik\OneDrive\Projects\C#\Test_Task_Confirmit\Test_Task_Confirmit\bin\Debug\Test_Task_Confirmit.exe.config
+C:\Users\gladkonik\OneDrive\Projects\C#\Test_Task_Confirmit\Test_Task_Confirmit\bin\Debug\Test_Task_Confirmit.exe
+C:\Users\gladkonik\OneDrive\Projects\C#\Test_Task_Confirmit\Test_Task_Confirmit\bin\Debug\Test_Task_Confirmit.pdb
+C:\Users\gladkonik\OneDrive\Projects\C#\Test_Task_Confirmit\Test_Task_Confirmit\obj\Debug\Test_Task_Confirmit.exe
+C:\Users\gladkonik\OneDrive\Projects\C#\Test_Task_Confirmit\Test_Task_Confirmit\obj\Debug\Test_Task_Confirmit.pdb
