@@ -13,15 +13,13 @@ namespace Test_Task_Confirmit
             string result = "";
             int pos = 0;
             int pos_prev = 0;
-            for (int i = 0; ; i++) {
+            while (true) {
                 int len = 0; //length of current row
-                while (pos < words.Length) {
-                    if (len + words[pos].Length >= width) {
-                        break;
-                    }
+                do {
                     len += words[pos++].Length;
                     len++; //space
-                }
+                } while (pos < words.Length && len + words[pos].Length < width);
+
                 len--; //take away the last space 
                 if (pos == words.Length) {
                     for (int j = pos_prev; j < words.Length; j++) {
